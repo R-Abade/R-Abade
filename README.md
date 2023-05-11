@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raphael Abade
 - 👀 I’m interested in learn more about World's Programation
-- 🌱 I’m currently learning Python, Flask, and Web's languages
+- 🌱 I’m currently learning Java, Python, Flask, and Web's languages
 - 📫 How to reach me: raphaelabade10@gmail.com, +5531995790531 or @raphael.abade (Instagram)
 
 <!---
