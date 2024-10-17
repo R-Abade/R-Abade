@@ -12,7 +12,7 @@
 ## My Social 💻
 
 <div style="display: inline-block"><br/>
-    <a href="mailto:raphaelabade10@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="width: 110px; height: 28px"></a>
+    <a href="mailto:raphaelabade10@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="width: 110px; height: 28px"></a>
     <a href="https://www.linkedin.com/in/raphael-abade-307769292/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 110px; height: 28px"></a>   
 </div>
 
@@ -26,8 +26,6 @@
     <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px; padding: 10px"/>
     <img align="center" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px; padding: 10px"/>
     <img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 50px; height: 50px; padding: 10px"/>
-    <img align="center" alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" style="width: 50px; height: 50px; padding: 10px"/>
-          
+    <img align="center" alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" style="width: 50px; height: 50px; padding: 10px"/>          
 </div>
 
-![Snake animation](https://github.com/R-Abade/R-Abade/blob/output/github-contribution-grid-snake.sgv)
