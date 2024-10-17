@@ -1,15 +1,22 @@
 ### Hello! My name is Raphael Abade
 
-## My Social
+<p>As a passionate programmer, I am driven by an insatiable thirst for knowledge. I am dedicated to continuously expanding my expertise and enhancing my skills to stay at the forefront of technology.</p>
+<p>
+    <ul>
+        <li>Embracing New Ideas: I actively seek out and welcome diverse perspectives, believing that innovation thrives in an open-minded environment.</li>
+        <li>Taking Initiative: I am proactive in contributing to projects and taking responsibility, ensuring I make a positive impact on my team.</li>
+        <li>Diligent Work Ethic: I am committed to delivering high-quality results consistently, understanding that excellence is key to success.</li>
+    </ul>
+</p>
 
+## My Social 💻
 
-<div style="display: inline-block"> <br>
+<div style="display: inline-block"><br/>
     <a href="mailto:raphaelabade10@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="width: 110px; height: 28px"></a>
-    <a href="https://www.linkedin.com/in/raphael-abade-307769292/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 110px; height: 28px">
-    </a>   
+    <a href="https://www.linkedin.com/in/raphael-abade-307769292/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 110px; height: 28px"></a>   
 </div>
 
-## Techs
+## known Technologies ​🛠️​
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
