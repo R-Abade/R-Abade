@@ -21,5 +21,5 @@
 
 ## Don't hesitate to contact me. ⤵️⤵️
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/raphael-abade-307769292/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:raphaelabade10@proton.me)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raphael-abade-307769292/)  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:raphaelabade10@proton.me)  
