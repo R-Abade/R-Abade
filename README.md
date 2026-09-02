@@ -1,13 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Hi, I'm Raphael Abade 👋
 
 **Back-End Developer | Software Architecture & Applied AI**  
 📍 Belo Horizonte, Brazil
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 I specialize in building robust back-end systems, complex API integrations, and exploring applied AI (Graph Neural Networks). Experienced in delivering high-impact solutions for public sector platforms (Anvisa, MPMG).
 
----
 
 ### 🚀 What I Do
 - 💻 **Back-End Development:** Building scalable architectures with Java (Spring Boot), Node.js, and Python.
