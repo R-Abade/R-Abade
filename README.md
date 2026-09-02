@@ -1,25 +1,52 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Hello! My name is Raphael Abade
+# Hi, I'm Raphael Abade 👋
 
-<p>As a passionate professional in both infrastructure and programming, I am driven by an insatiable thirst for knowledge. I am dedicated to continuously expanding my expertise in server management, and software development to stay at the forefront of technology.</p>  
+**Back-End Developer | Software Architecture & Applied AI**  
+📍 Belo Horizonte, Brazil
 
-<p>Some of the principles that guide my work include:</p>  
-<ul>  
-    <li>Embracing New Ideas: I actively seek out and welcome diverse perspectives, believing that innovation thrives in an open-minded environment.</li>  
-    <li>Taking Initiative: I am proactive in contributing to projects and taking responsibility, ensuring I make a positive impact on my team.</li>  
-    <li>Diligent Work Ethic: I am committed to delivering high-quality results consistently, understanding that excellence is key to success.</li>  
-</ul>
+I specialize in building robust back-end systems, complex API integrations, and exploring applied AI (Graph Neural Networks). Experienced in delivering high-impact solutions for public sector platforms (Anvisa, MPMG).
 
+---
 
-## 🚀 What I'm learning: 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,javascript,nodejs,mysql)](https://skillicons.dev)<br><br>
+### 🚀 What I Do
+- 💻 **Back-End Development:** Building scalable architectures with Java (Spring Boot), Node.js, and Python.
+- ⚙️ **Systems Integration:** Enterprise API integrations (Microsoft Teams API, Portal.gov) and complex workflow automation.
+- 🧠 **AI & Graph Data:** Researching synthetic data generation for code vulnerabilities and Graph Neural Networks (GNNs) for dynamic risk modeling.
+- 🌐 **Infrastructure:** Linux administration, network asset management, and system monitoring (Zabbix).
 
-## 🛠️ Tools and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=github,grafana,linux,debian,postman)](https://skillicons.dev)<br><br>
+---
 
+### 🛠 Tech Stack
 
-## Don't hesitate to contact me. ⤵️⤵️
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raphael-abade-307769292/)  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:raphaelabade10@proton.me)  
+**Databases & Search**  
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Infrastructure & Tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Research & Projects
+
+- 🌊 **[VigiaEnchente](https://github.com/R-Abade):** Disaster resilience platform built with Java + Spring Boot, WebSockets, and Graph Neural Networks (GNN) for safety-first route calculation during flooding events.
+- 🛡️ **[BLIS Research Project](https://github.com/R-Abade):** Pipeline for synthetic code vulnerability data generation with syntax/semantic validation.
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-abade)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphaelabade10@proton.me)
